@@ -1,4 +1,4 @@
-module xk6-go-crypto
+module github.com/akkahshh24/xk6-go-crypto
 
 go 1.20
 
