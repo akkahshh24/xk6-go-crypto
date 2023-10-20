@@ -10,6 +10,6 @@ type Statement struct {
 	StatementResult string
 }
 
-func (s *Statement) GetStatement() string {
-	return "Hello from xk6-go-crypto extension!"
+func (s *Statement) GetStatement(stmt string) string {
+	return stmt
 }
